@@ -1,4 +1,4 @@
-# Building-a-Private-Blockchain-using-Ethereum
+# Building a Private Blockchain using Ethereum
 
 ## Geth Installation for Windows
 ```url
